@@ -1,0 +1,22 @@
+{
+  "name": "cvofid",
+  "version": "1.0.0",
+  "description": "My Resume for MGCE Submission",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "resume",
+    "cv",
+    "dicoding",
+    "mgce",
+    "gcp"
+  ],
+  "author": "offiedz@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
